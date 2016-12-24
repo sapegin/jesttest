@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "jest": "~18.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "jesttest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Artem Sapegin <artem@sapegin.ru> (http://sapegin.me)",
+  "license": "MIT"
+}
